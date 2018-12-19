@@ -1,6 +1,6 @@
 Sources Used 
 {
-  https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+  https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard, 
   https://www.kaggle.com/sungsujaing/blackfriday-eda-randomforestprediction
 }
 import numpy as np ( It provides fast and efficient operations on arrays of homogeneous data)
